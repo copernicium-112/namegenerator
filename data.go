@@ -26,7 +26,12 @@ var (
 		"bold", "little", "morning", "muddy", "old", "red", "rough", "still", "small",
 		"sparkling", "throbbing", "shy", "wandering", "withered", "wild", "black",
 		"young", "holy", "solitary", "fragrant", "aged", "snowy", "proud", "floral",
-		"restless", "divine", "polished", "ancient", "purple", "lively", "nameless"}
+		"restless", "divine", "polished", "ancient", "purple", "lively", "nameless", "superheroic", "mighty", "heroic",
+		"incredible", "amazing", "invincible", "spectacular", "wonderful", "legendary", "fantastic", "electrifying", "fearless",
+		"unstoppable", "unbeatable", "godlike", "powerful", "fierce", "brave", "courageous", "valiant", "noble", "virtuous", "loyal",
+		"intelligent", "brilliant", "genius", "gifted", "talented", "smart", "wise", "resourceful", "quickwitted",
+		"clever", "astute", "mysterious", "enigmatic", "magical", "mythical", "cosmic", "otherworldly", "alien", "divine", "supernatural",
+		"unearthly", "immortal", "legendary", "iconic", "mighty", "unforgettable"}
 
 	// NOUNS ...
 	NOUNS = []string{"waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
@@ -36,5 +41,13 @@ var (
 		"haze", "mountain", "night", "pond", "darkness", "snowflake", "silence",
 		"sound", "sky", "shape", "surf", "thunder", "violet", "water", "wildflower",
 		"wave", "water", "resonance", "sun", "wood", "dream", "cherry", "tree", "fog",
-		"frost", "voice", "paper", "frog", "smoke", "star"}
+		"frost", "voice", "paper", "frog", "smoke", "star", "avengers", "spiderman",
+		"hulk", "captainamerica", "ironman", "blackpanther", "thor", "guardiansofthegalaxy",
+		"shield", "wakanda", "infinitystones", "vibranium", "xmen", "theavengerstower",
+		"starkindustries", "arcreactor", "helicarrier", "chitauri", "supersoldierserum",
+		"hydra", "assemble", "mjolnir", "stormbreaker", "tesseract", "eyeofagamotto",
+		"wandavision", "falcon", "wintersoldier", "blackwidow", "hawkeye", "antman",
+		"thewasp", "doctorstrange", "kree", "skrulls", "sakaar", "grandmaster", "hela",
+		"valkyrie", "groot", "rocket", "gamora", "drax", "starlord", "ego", "thanos",
+		"thesnap"}
 )

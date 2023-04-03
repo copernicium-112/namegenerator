@@ -1,1 +1,3 @@
-module github.com/goombaio/namegenerator
+module github.com/copernicium-112/namegenerator
+
+go 1.18
